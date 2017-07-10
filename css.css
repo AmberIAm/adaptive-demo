@@ -1,0 +1,15 @@
+img {
+	width: 100%;
+}
+.download {
+	text-align: left;
+}
+.download input {
+	height: 40px;
+	width: 100px;
+}
+@media screen and (max-device-width: 768px) {
+	.download input {
+		width: 100%;
+	}
+}
